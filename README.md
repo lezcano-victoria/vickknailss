@@ -61,16 +61,22 @@ Trabajamos con las siguientes técnicas💅🏻:
     <p><strong>GMAIL:</strong> lezcanovictoria034@gmail.com</p>
   </div>
   
-  <div class="UBICACIÓN">
-  <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-  <title>Mapa de Ubicación</title>
+  <meta charset="UTF-8">
+  <title>Mapa - Santiago del Estero 1999, Merlo</title>
 </head>
 <body>
-  <h2>Ubicación en el mapa</h2>
-  <!-- Código de Google Maps (copia y pega el código generado en Google Maps) -->
-  <iframe src="https://maps.app.goo.gl/TZvk3fYsdkMJJDTH8"=!1m18!1m12!1m3!1d1714454398.5114299!2d-58.4289988!3d-34.4819438!2m3!1f0!2f0!3f0!3m2!1i10!2i0!4m1!3i1!5e0!3m2!1ses!2sar!4v1678099782528!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  <h1>Ubicación: Santiago del Estero 1999, Merlo, Buenos Aires</h1>
+  <iframe 
+    src="https://www.google.com/maps?q=Santiago+del+Estero+1999,+Merlo,+Buenos+Aires,+Argentina&output=embed"
+    width="600" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
 </body>
 </html>
 </div>
