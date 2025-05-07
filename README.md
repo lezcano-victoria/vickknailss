@@ -70,12 +70,7 @@ Trabajamos con las siguientes técnicas💅🏻:
   <h1>Ubicación: Santiago del Estero 1999, Merlo, Buenos Aires</h1>
   <iframe 
     src="https://www.google.com/maps?q=Santiago+del+Estero+1999,+Merlo,+Buenos+Aires,+Argentina&output=embed"
-    width="600" 
-    height="450" 
-    style="border:0;" 
-    allowfullscreen="" 
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
+
   </iframe>
 </body>
 </html>
