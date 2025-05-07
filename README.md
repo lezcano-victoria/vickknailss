@@ -58,9 +58,9 @@ TRABAJAMOS CON LAS SIGUIENTES TECNICAS💅🏻:
 
   <div class="CONTACTO">
     <p><strong>TELEFONO:</strong> 1140986516</p>
-    <p><strong>INSTAGRAM:</strong> <a href="https://instagram.com/Vick1___" target="_blank">@Vick1___</a></p>
+    <p><strong>INSTAGRAM:</strong> <a href="https://instagram.com/Vicknailsssss" target="_blank">@Vicnailsssss</a></p>
     <p><strong>GMAIL:</strong> lezcanovictoria034@gmail.com</p>
-  </div>
+
   
 <html lang="es">
 <head>
