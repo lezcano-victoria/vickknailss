@@ -48,7 +48,8 @@
 
   <header>
     <h1></h1>✨¡Bienvenidos a VickNails!✨ A continuación voy a dejar el Instagram-Número de teléfono para que puedan ver todos los diseños y puedan consultar para organizar un turno.💖
-Trabajamos con las siguientes técnicas💅🏻:
+
+    Trabajamos con las siguientes técnicas💅🏻:
 •ESCULPIDAS 
 •SOFT GEL
 •SEMIPERMANENTE
@@ -68,12 +69,7 @@ Trabajamos con las siguientes técnicas💅🏻:
 </head>
 <body>
   <h1>Ubicación: Santiago del Estero 1999, Merlo, Buenos Aires</h1>
-  <iframe 
-    src="https://www.google.com/maps?q=Santiago+del+Estero+1999,+Merlo,+Buenos+Aires,+Argentina&output=embed"
-
-  </iframe>
-</body>
-</html>
+  
 </div>
 
   <footer>
