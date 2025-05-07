@@ -49,7 +49,7 @@
   <header>
     <h1></h1>✨¡Bienvenidos a VickNails!✨ A continuación voy a dejar el Instagram-Número de teléfono para que puedan ver todos los diseños y puedan consultar para organizar un turno.💖
 
-    Trabajamos con las siguientes técnicas💅🏻:
+TRABAJAMOS CON LAS SIGUIENTES TECNICAS💅🏻:
 •ESCULPIDAS 
 •SOFT GEL
 •SEMIPERMANENTE
