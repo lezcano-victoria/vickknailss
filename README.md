@@ -70,7 +70,6 @@ TRABAJAMOS CON LAS SIGUIENTES TECNICAS💅🏻:
 <body>
   <h1>Ubicación: Santiago del Estero 1999, Merlo, Buenos Aires</h1>
   
-</div>
 
   <footer>
     &copy; 2025 VickNails - Todos los derechos reservados
